@@ -45,7 +45,7 @@
 ### Additional Instructions
 
 1. **Dataset Suggestions:**
-    * You can use publicly available datasets from sites like Kaggle or UCI Machine Learning Repository.
+    * You can use publicly available datasets from sites like Kaggle or UCI Machine Learning Repository(https://archive.ics.uci.edu/).
     * The Iris dataset (a classic dataset for classification problems) can be accessed via `sklearn.datasets.load_iris()`, which can be used for the analysis.
 
 Plot Customization:
