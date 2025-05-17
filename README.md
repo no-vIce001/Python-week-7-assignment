@@ -13,7 +13,7 @@
 
 #### **Submission Requirements**
 * Submit a Jupyter notebook (.ipynb file) or Python script (.py file) containing:
-*    Data loading and exploration steps.
+    * Data loading and exploration steps.
 Basic data analysis results.
 Visualizations.
 Any findings or observations.
