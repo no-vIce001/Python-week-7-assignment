@@ -42,12 +42,11 @@
 2. Customize your plots with titles, labels for axes, and legends where necessary.
 
 
-Additional Instructions
+### Additional Instructions
 
-Dataset Suggestions:
-
-You can use publicly available datasets from sites like Kaggle or UCI Machine Learning Repository.
-The Iris dataset (a classic dataset for classification problems) can be accessed via sklearn.datasets.load_iris(), which can be used for the analysis.
+1. **Dataset Suggestions:**
+    * You can use publicly available datasets from sites like Kaggle or UCI Machine Learning Repository.
+    * The Iris dataset (a classic dataset for classification problems) can be accessed via `sklearn.datasets.load_iris()`, which can be used for the analysis.
 
 Plot Customization:
 
